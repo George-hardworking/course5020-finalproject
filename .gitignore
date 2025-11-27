@@ -208,3 +208,15 @@ __marimo__/
 .DS_Store
 /raw
 docs/CNFG 5020_Mini Project II.md
+results/q2/q2_cleaned_trade_data_2016_2018.csv
+results/q2/q2_cluster_centers.csv
+results/q2/q2_country_avg_vectors_for_clustering.csv
+results/q2/q2_country_both_cluster_labels.csv
+results/q2/q2_country_cluster_labels.csv
+results/q2/q2_country_hs2_share_matrix.csv
+results/q2/q2_normalized_country_hs2_share_matrix.csv
+results/q2/q2_pca_component_loadings.csv
+results/q2/q3_tsne_coordinates.csv
+results/q2/q3_tsne_coordinates_3d.csv
+results/q2/q3_umap_coordinates.csv
+results/q2/q3_umap_coordinates_3d.csv
