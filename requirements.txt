@@ -95,3 +95,4 @@ widgetsnbextension==4.0.15
 xyzservices==2025.10.0
 yfinance==0.2.66
 zipp==3.23.0
+umap-learn==0.5.3
