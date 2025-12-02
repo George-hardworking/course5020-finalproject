@@ -1,0 +1,17 @@
+feature,importance
+i,1442
+exporter_gdp,1152
+j,1126
+importer_gdp,1118
+gdp_product,909
+gdp_ratio,811
+distance_km,788
+gdp_sum,523
+exporter_id,280
+exporter_gdp_log,242
+importer_id,227
+importer_gdp_log,209
+distance_log,126
+year,41
+year_scaled,6
+is_same_country,0
