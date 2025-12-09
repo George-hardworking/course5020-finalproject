@@ -1,11 +1,11 @@
-country_code,n_partners,display
-530,1,530
-535,36,535
-666,43,666
-652,46,652
-534,50,534
-162,50,162
-574,51,574
-260,52,260
-876,54,876
-583,56,583
+country_code,n_partners,name,display
+530,1,Neth. Antilles,Neth. Antilles (530)
+535,36,Bonaire,Bonaire (535)
+666,43,Saint Pierre and Miquelon,Saint Pierre and Miquelon (666)
+652,46,Saint Barthélemy,Saint Barthélemy (652)
+534,50,Saint Maarten,Saint Maarten (534)
+162,50,Christmas Isds,Christmas Isds (162)
+574,51,Norfolk Isds,Norfolk Isds (574)
+260,52,Fr. South Antarctic Terr.,Fr. South Antarctic Terr. (260)
+876,54,Wallis and Futuna Isds,Wallis and Futuna Isds (876)
+583,56,FS Micronesia,FS Micronesia (583)

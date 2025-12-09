@@ -1,11 +1,11 @@
-country_code,n_partners,display
-764,220,764
-276,220,276
-724,220,724
-381,220,381
-251,220,251
-528,220,528
-616,220,616
-826,219,826
-203,219,203
-058,219,058
+country_code,n_partners,name,display
+764,220,Thailand,Thailand (764)
+276,220,Germany,Germany (276)
+724,220,Spain,Spain (724)
+381,220,Italy,Italy (381)
+251,220,France,France (251)
+528,220,Netherlands,Netherlands (528)
+616,220,Poland,Poland (616)
+826,219,United Kingdom,United Kingdom (826)
+203,219,Czechia,Czechia (203)
+058,219,Belgium-Luxembourg,Belgium-Luxembourg (058)
